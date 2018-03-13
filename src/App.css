@@ -1,0 +1,17 @@
+.App {
+  max-width: 580px;
+  margin: 0 auto;
+  padding: 5%;
+  text-align: center;
+}
+.seg{
+border: 1px solid #ccc;
+border-radius: 5px;
+width: 100%;
+padding: 5%;
+}
+#bot{
+  background-color: #9DBDE0;
+  font-size: 18px;
+  color: inherit;
+}
